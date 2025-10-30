@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "b5ac50f734973d1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad7fea0394a11b95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a5e207d25627fc7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "676fa3669aa99c40",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5a4a51fe858799f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ada3d8b7e79c35ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f341215a1b23b004",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "88b494bf99323a72",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "77371cea93cb6229",
+    "type": "split",
+    "children": [
+      {
+        "id": "0222d13604360f28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb0bc7944450ed50",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Life/Interview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Interview"
+            }
+          },
+          {
+            "id": "9ec8b1df5a25df64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "bc070046f21a56b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "472d80fdbccec44e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "a18682b8e58f1ada",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3a5e207d25627fc7",
+  "lastOpenFiles": [
+    "Work/入党/个人自传.md",
+    "Work/入党/Untitled.base",
+    "Untitled.canvas",
+    "Excalidraw/Pasted Image 20251016231741_825.png",
+    "Work/入党/思想汇报4.md",
+    "Excalidraw/三联专利.md",
+    "Excalidraw/Drawing 2025-09-25 21.58.32.excalidraw.md",
+    "Work/床椅/安徽三联专利.md",
+    "TodoList.md",
+    "Untitled.md",
+    "Work/入党/思想汇报8.md",
+    "Work/入党/思想汇报5.md",
+    "Work/入党/思想汇报6.md",
+    "Work/入党/思想汇报7.md",
+    "Work/ACRobot/SolvePnP.md",
+    "Work/ACRobot/Hand-Eye-Calibration.md",
+    "Work/ACRobot/Camera.md",
+    "Work/ACRobot/Aruco Mark.md",
+    "Work/ACRobot/resources/handToeye.png",
+    "Work/入党/思想汇报3.md",
+    "Learn/vim/大四上/Intelligent Materials/Questions.md",
+    "Learn/vim/大四上",
+    "Learn/vim/大四上/Intelligent Materials",
+    "Welcome.md",
+    "Work/入党/思想汇报1.md",
+    "Work/入党/入党志愿书.md",
+    "Excalidraw/Untitled.md",
+    "Work/入党",
+    "Work/入党/思想汇报2.md",
+    "Learn/git/git reset.md",
+    "Learn/vim/Vim Scripts.md",
+    "Learn/vim/hlsearch.md",
+    "Work/床椅",
+    "Learn/vim",
+    "Learn/git",
+    "Learn/vim/大四上/经济管理/Pasted image 20250925221421.png",
+    "Learn/vim/大四上/经济管理/Pasted image 20250925221042.png",
+    "Learn/vim/大四上/经济管理",
+    "Excalidraw",
+    "Work/旋翼无人机结构和动力学设计",
+    "第三十九届全国部分地区大学生物理竞赛-何健民.png",
+    "Work/ACRobot/resources/Pasted image 20250831163109.png"
+  ]
+}
