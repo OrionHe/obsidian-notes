@@ -11,10 +11,14 @@
             "id": "3a5e207d25627fc7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Work/ACRobot/SolvePnP.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "SolvePnP"
             }
           }
         ]
@@ -177,17 +181,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a18682b8e58f1ada",
+  "active": "3a5e207d25627fc7",
   "lastOpenFiles": [
+    "Work/ACRobot/Aruco Mark.md",
+    "Work/入党/思想汇报1.md",
+    "Excalidraw/三联专利.md",
+    "Work/床椅/安徽三联专利.md",
+    "TodoList.md",
     "Work/入党/个人自传.md",
     "Work/入党/Untitled.base",
     "Untitled.canvas",
     "Excalidraw/Pasted Image 20251016231741_825.png",
     "Work/入党/思想汇报4.md",
-    "Excalidraw/三联专利.md",
     "Excalidraw/Drawing 2025-09-25 21.58.32.excalidraw.md",
-    "Work/床椅/安徽三联专利.md",
-    "TodoList.md",
     "Untitled.md",
     "Work/入党/思想汇报8.md",
     "Work/入党/思想汇报5.md",
@@ -196,14 +202,12 @@
     "Work/ACRobot/SolvePnP.md",
     "Work/ACRobot/Hand-Eye-Calibration.md",
     "Work/ACRobot/Camera.md",
-    "Work/ACRobot/Aruco Mark.md",
     "Work/ACRobot/resources/handToeye.png",
     "Work/入党/思想汇报3.md",
     "Learn/vim/大四上/Intelligent Materials/Questions.md",
     "Learn/vim/大四上",
     "Learn/vim/大四上/Intelligent Materials",
     "Welcome.md",
-    "Work/入党/思想汇报1.md",
     "Work/入党/入党志愿书.md",
     "Excalidraw/Untitled.md",
     "Work/入党",
